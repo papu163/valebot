@@ -1,0 +1,13 @@
+Informacion del bot y funciones:
+
+-Musica:Puedes usar el comando /vb-play (link de youtube) para escuchar musica (para que funcione debes estar en un canal de voz antes de usarlo)
+-Cerrar canales:Puedes cerrar canales para @everyone con el comando /close (canal) 
+-Automod avanzado:Puedes poner palabras para un automod avanzado que detecta patrones y leetspeek(numeros a letras) o deletreos de palabras prohibidas y si quieres un registro puedes usar /rgautomod (canal)
+para poner las palabras a bloquear pon /automod (las palabras de automod solo seran registradas en tu servidor y no en otros)
+-IA:Valebot tiene una IA muy parecida a simsimi puedes usar /iafix para establecer triggers que estan comunicados entre todos los servidores que tengan valebot
+-Funfacts:Puedes poner /funfact para que el bot envie un fucfact de discord, los TOS de discord e informacion del BOT
+-El bot habla:Puedes poner el comando /say (canal a enviar el mensaje) (texto que quieres que diga) y lo dira 
+-Borrar mensajes:Puedes poner el comando /vb-purge (canal) y empezara a borrar todo texto enviado en ese canal
+-Borrar cierto rango de mensajes:Puedes poner el comando /vb-spurge (canal) (1-300 mensajes) y borrara lo especificado
+
+Se añadiran mas funciones con el tiempo y puedes sugerir cosas en el reddit de ValeBOT
